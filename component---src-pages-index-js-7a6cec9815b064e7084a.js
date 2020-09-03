@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{RXBc:function(e,t,n){"use strict";n.r(t),n.d(t,"default",(function(){return r}));var a=n("q1tI"),l=n.n(a);function r(){return l.a.createElement("div",{style:{color:"purple"}},l.a.createElement("h1",null,"Hello rld!"),l.a.createElement("p",null,"What a world"),l.a.createElement("img",{src:"https://source.unsplash.com/random/400x200",alt:""}),l.a.createElement("button",{class:"primary-button"},"Click Me!"))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-7a6cec9815b064e7084a.js.map
